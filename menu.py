@@ -9,5 +9,6 @@
 '''
 def show_menu(db):
     #add your code here
-    print("Hello world!")
+
+    print("HELLO WORLD!")
     return 0
